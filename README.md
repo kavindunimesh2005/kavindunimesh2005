@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Building+Scalable+Digital+Solutions;Web+Design+%7C+Development+%7C+Database;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Engineering;Full-Stack+Web+Developer;Building+Scalable+Digital+Solutions;Web+Design+%7C+Development+%7C+Database;Always+Learning%2C+Always+Building" alt="Typing SVG"/>
 
 <br><br>
 
@@ -34,7 +34,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Kavindu Nimesh**, a Software Engineering student and web developer from Sri Lanka.
+Hi! I'm **Kavindu Nimesh**, a Software Engineering and web developer from Sri Lanka.
 
 I enjoy designing and developing **modern, responsive, database-driven web applications** and digital solutions that are practical, scalable, and user-friendly.
 
